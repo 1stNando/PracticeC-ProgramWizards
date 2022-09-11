@@ -1,19 +1,5 @@
 ﻿using System;
 
-namespace PracticeC_ProgramWizards
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-
-
-        }
-    }
-}
-
-using System;
-
 namespace Blackjack
 {
 
